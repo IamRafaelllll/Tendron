@@ -1,8 +1,3 @@
-public void setup()
-{
-background(55);
- 
-}
 public void settings(){
   size(500,500);
   noLoop();
